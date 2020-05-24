@@ -10,6 +10,10 @@ and other university/school honor code violations. To battle this, we have devel
 staff to monitor commonly known websites that host homework/test solutions such as Chegg & Coursehero real-time 
 for posts asking for solutions to their unique questions. This will relieve the staff from the burden of having to manually search for these posts -- an arduous undertaking. It would be particularly helpful to teachers from schools that are unable to allocate sufficient resources or time to tackle the increase in the number of plagiarism incidents.
 
+## How It Should Look / What We Have Done
+
+As clear from the page, the site will primarily have a search function. This is where the unique question will be input. It will scrape the various sites that the unethical sharing of these questions occur, and will come up with the result of where a match was found. We could not scrape the sites during this hackathon because they require paid accounts, so we added dummy data of natural wonders (actual content of the sample data is arbitrary). The site also has a login function so a users searches can be saved.
+
 ## Prerequisite
 1) [NVM](https://github.com/nvm-sh/nvm#installing-and-updating) (recommended)
 2) [Node.js with NPM](https://github.com/nvm-sh/nvm#usage)
