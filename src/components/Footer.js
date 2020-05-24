@@ -18,7 +18,7 @@ class Footer extends React.Component {
                     <li> <a href="https://github.com/pay-n/plaginate"> <FontAwesomeIcon icon={ faGithub } /></a></li>
                     <li> <a href="#"> <FontAwesomeIcon icon={ faDev } /></a></li>
                 </ul>
-                <p>&copy; Payn. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+                <p>&copy; PAYN Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
             </div>
         </footer>
     );

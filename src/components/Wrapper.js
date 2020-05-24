@@ -4,10 +4,10 @@ import Footer from './Footer';
 
 const Wrapper = () => {
     return (
-        <div id="wrapper" className="divided">
+        <main id="wrapper" className="divided">
             <Banner />
             <Footer />
-        </div>
+        </main>
     );
 }
 
