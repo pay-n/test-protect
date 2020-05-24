@@ -12,7 +12,9 @@ for posts asking for solutions to their unique questions. This will relieve the 
 
 ## How It Should Look / What We Have Done
 
-As clear from the page, the site will primarily have a search function. This is where the unique question will be input. It will scrape the various sites that the unethical sharing of these questions occur, and will come up with the result of where a match was found. We could not scrape the sites during this hackathon because they require paid accounts, so we added dummy data of natural wonders (actual content of the sample data is arbitrary). The site also has a login function so a users searches can be saved.
+As clear from the page, the site will primarily have a search function. This is where the unique question will be input. It will scrape the various sites that the unethical sharing of these questions occur, and will come up with the result of where a match was found. We could not scrape the sites during this hackathon because they require paid accounts, so we added dummy data of natural wonders (actual content of the sample data is arbitrary). The site also has a login function so a users searches can be saved. This is a static preview of the site in its current form:
+<img src="public/img/homepage-preview.png" alt="Test Protect Homepage" height="80%" width="80%"/>
+
 
 ## Prerequisite
 1) [NVM](https://github.com/nvm-sh/nvm#installing-and-updating) (recommended)
