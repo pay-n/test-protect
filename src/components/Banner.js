@@ -1,5 +1,6 @@
 import React from 'react';
 import Login from './Login';
+import { Card, Col } from 'react-bootstrap';
 
 class Banner extends React.Component {
   constructor() {
@@ -12,10 +13,18 @@ class Banner extends React.Component {
   render() {
     return (
         <section className="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
-            <Login />
-            <div className="image">
-                <img src="img/banner.jpg" alt="" />
-            </div>
+          <Col sm={6}>
+            <Card style={{width: "50%", marginLeft: "8em", marginTop: "12em", padding: "3em" }}>
+              <Card.Body>
+                <Card.Text>
+                  <Login />
+                </Card.Text>
+              </Card.Body>
+            </Card>
+          </Col>
+          <Col sm={6} className="image">
+            <img src="img/banner.jpg" alt="" />
+          </Col>
         </section>
     );
   }
