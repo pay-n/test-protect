@@ -32,6 +32,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 
  - Demo Images: [Unsplash](unsplash.com)
  - Icons: [Font Awesome](fontawesome.io)
+ - Search bar inspired by and dummy data from: CodeSandBox
  - Other:
      - [jQuery](jquery.com)
 	 - [Scrollex](github.com/ajlkn/jquery.scrollex)
