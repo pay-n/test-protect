@@ -1,68 +1,34 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# plaginate
 
-## Available Scripts
+A tool for real time plagiarism detection on sites like Chegg and CourseHero
 
-In the project directory, you can run:
+## Motivation 
 
-### `npm start`
+Due to the COVID-19 pandemic, most schools are planning to move to remote learning for the foreseeable future, 
+which brings its own set of challenges. A very prominent challenge is cutting down on incidences of plagiarism 
+and other forms of honor code violation. Hence, we would like to develop an application that allows the teaching 
+staff to monitor commonly known websites that host homework/test solutions such as Chegg & Coursehero real-time 
+for posts asking for such solutions. This will relieve the staff from the burden of having to manually check for 
+these posts themselves, particularly in those schools that are unable to allocate sufficient resources to tackle 
+this increase in the number of plagiarism incidents.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Prerequisite
+1) [NVM](https://github.com/nvm-sh/nvm#installing-and-updating) (recommended)
+2) [Node.js with NPM](https://github.com/nvm-sh/nvm#usage)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Setup   
+1. Install required npm packages by `npm install`
+2. Run the application locally through `npm start` 
+   and access main page by typing `localhost:3000` 
+   in the address bar of your browser
 
-### `npm test`
+## Credits
+The HTML template used is Story by [HTML5Up](https://html5up.net/). <br />
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+ - Demo Images: [Unsplash](unsplash.com)
+ - Icons: [Font Awesome](fontawesome.io)
+ - Other:
+     - [jQuery](jquery.com)
+	 - [Scrollex](github.com/ajlkn/jquery.scrollex)
+	 - [Responsive Tools](github.com/ajlkn/responsive-tools)
