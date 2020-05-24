@@ -17,12 +17,15 @@ As clear from the page, the site will primarily have a search function. This is 
 ## Preview Images
 
 This is a static preview of the site landing page in its current form:
+
 <img src="public/img/homepage-preview.png" alt="Test Protect Homepage" height="60%" width="60%"/>
 
 Here is the search bar in action:
+
 <img src="public/img/searching-demo.png" alt="Test Protect Homepage" height="60%" width="60%"/>
 
 Here are the search results (search made to match dummy data):
+
 <img src="public/img/search-result-demo.png" alt="Test Protect Homepage" height="60%" width="60%"/>
 
 
