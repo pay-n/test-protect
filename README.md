@@ -1,4 +1,4 @@
-# TestProtect
+# <img src="public/img/test-protect-logo.png" alt="Test Protect Logo" height="30%" width="30%"/>
 
 A tool for real time plagiarism detection on homework helper sites like Chegg and CourseHero
 
