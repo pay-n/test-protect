@@ -12,7 +12,7 @@ class Banner extends React.Component {
 
   render() {
     return (
-        <section className="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
+        <section className="banner style1 orient-left content-align-left image-position-right onload-image-fade-in onload-content-fade-right">
           <Col sm={6}>
             <Card style={{width: "50%", marginLeft: "8em", marginTop: "12em", padding: "3em" }}>
               <Card.Body>
