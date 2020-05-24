@@ -17,7 +17,7 @@ class Header extends React.Component {
                     <img 
                       width="70%"
                       height="70%"
-                      src="img/test-protect-logo.png"
+                      src="img/test-protect-header.png"
                       className="d-inline-block align-top" 
                       alt="Test protect logo"
                       />

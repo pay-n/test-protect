@@ -1,17 +1,21 @@
 import React from 'react';
-import Header from './components/Header';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Wrapper from './components/Wrapper';
-import {Container} from 'react-bootstrap';
+import Search from './components/Search';
 import './App.css';
 
 function App() {
   return (
-    <>
-     <Header />
-     <Container fluid>
-      <Wrapper />
-     </Container>
-    </>
+    <Router>
+      <Switch>
+        <Route exact path="/">
+            <Wrapper />
+        </Route>
+        <Route exact path="/search">
+              <Search />
+        </Route>
+     </Switch>
+    </Router>
   );
 }
 
