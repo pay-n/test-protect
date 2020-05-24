@@ -11,8 +11,8 @@ class Header extends React.Component {
   render() {
     return (
         <section className="header">
-            <div className="image-logo">
-                <img src="img/test-protect-logo.png" alt="logo" />
+            <div style={{width: "100%", textAlign:"center"}} className="image-logo">
+                <img src="img/test-protect-header.png" alt="logo" />
             </div>
         </section>
     );
