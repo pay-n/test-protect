@@ -15,11 +15,11 @@ class Header extends React.Component {
           <Navbar bg="light" variant="light" fixed="top">
                   <Navbar.Brand href="#">
                     <img 
-                      width="70%"
+                      width="100%"
                       height="70%"
-                      src="img/test-protect-logo.png"
-                      className="d-inline-block align-top" 
-                      alt="Test protect logo"
+                      src="img/test-protect-header.png"
+                      className="d-inline-block align-top text-center" 
+                      alt="Test protect header"
                       />
                   </Navbar.Brand>
           </Navbar>
