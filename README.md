@@ -1,4 +1,4 @@
-# plaginate
+# TestProtect
 
 A tool for real time plagiarism detection on homework helper sites like Chegg and CourseHero
 
