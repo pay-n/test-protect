@@ -1,16 +1,14 @@
 # plaginate
 
-A tool for real time plagiarism detection on sites like Chegg and CourseHero
+A tool for real time plagiarism detection on homework helper sites like Chegg and CourseHero
 
 ## Motivation 
 
 Due to the COVID-19 pandemic, most schools are planning to move to remote learning for the foreseeable future, 
-which brings its own set of challenges. A very prominent challenge is cutting down on incidences of plagiarism 
-and other forms of honor code violation. Hence, we would like to develop an application that allows the teaching 
+which brings its own set of challenges. A very prominent challenge is the increased incidences of plagiarism 
+and other university/school honor code violations. To battle this, we have developed an application that allows the teaching 
 staff to monitor commonly known websites that host homework/test solutions such as Chegg & Coursehero real-time 
-for posts asking for such solutions. This will relieve the staff from the burden of having to manually check for 
-these posts themselves, particularly in those schools that are unable to allocate sufficient resources to tackle 
-this increase in the number of plagiarism incidents.
+for posts asking for solutions to their unique questions. This will relieve the staff from the burden of having to manually search for these posts -- an arduous undertaking. It would be particularly helpful to teachers from schools that are unable to allocate sufficient resources or time to tackle the increase in the number of plagiarism incidents.
 
 ## Prerequisite
 1) [NVM](https://github.com/nvm-sh/nvm#installing-and-updating) (recommended)
